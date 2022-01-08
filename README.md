@@ -31,6 +31,10 @@
 | 15. 규칙 학습             |                              |        |
 | 16. 강화 학습             |                              |        |
 
+## 📜 Ground Rule
+
+[**link**](https://github.com/bangvkf3/machine-learning-zhou_zhihua/wiki/Ground-Rule)
+
 ## 📖 Text
 
 <p align="center">
