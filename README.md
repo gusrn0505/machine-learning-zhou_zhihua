@@ -4,7 +4,7 @@
 
 ## 📘 GitBook
 
-[**link**](https://bangvkf3.gitbook.io/machine-learning-zhou%5C_zhihua)
+[**link**](https://bangvkf3.gitbook.io/machine-learning-zhou_zhihua/)
 
 ## 👥 Contributors
 
